@@ -65,7 +65,7 @@ and open the template in the editor.
     <body>
         <div id="contrainer" >
              <a link href="./name/index.php"><div class="enjoy-css" style="position: absolute;left: 80px;bottom: 40px;">วิเคราะห์ชื่อ-นามสกุล</div></a>
-            <a link href="./phone"><div class="enjoy-css" style="position: absolute;right: 80px;bottom: 40px;">วิเคราะห์เบอร์โทร</div></a>
+            <a link href="./phone/index.php"><div class="enjoy-css" style="position: absolute;right: 80px;bottom: 40px;">วิเคราะห์เบอร์โทร</div></a>
             
         
     </div>
